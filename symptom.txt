@@ -1,0 +1,594 @@
+Stopped Growth caused by
+diseases such as 'Growth Hormone Deficiency, Achondroplasia',
+treatments: 'Growth Hormone Therapy, Limb-Lengthening Surgery',
+treatment_scans: 'Bone Age X-ray, MRI Scan',
+diet: 'Protein-rich foods, Calcium-rich foods, Vitamin D supplements'
+-------> Enter your pincode to see available doctors nearby you.
+
+Persistent Cough, Wheezing, Shortness of Breath caused by
+diseases such as 'Asthma, Chronic Bronchitis',
+treatments: 'Bronchodilators, Corticosteroids',
+treatment_scans: 'Spirometry, Chest X-ray',
+diet: 'Anti-inflammatory foods, Omega-3 rich foods'
+-------> Enter your pincode to see available doctors nearby you.
+
+Frequent Headaches, Nausea, Vision Problems caused by
+diseases such as 'Migraine, Brain Tumor',
+analgesics: 'Triptans, Anti-seizure medications',
+treatment scans: 'CT Scan, MRI Scan',
+diet: 'Hydration, Magnesium-rich foods, Avoid trigger foods'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Persistent Fatigue, Muscle Weakness, Weight Gain caused by
+diseases such as 'Hypothyroidism, Chronic Fatigue Syndrome',
+analgesics: 'Levothyroxine, Antidepressants',
+treatment scans: 'Thyroid Function Tests, Sleep Study',
+diet: 'Iodine-rich foods, Vitamin B12 supplements'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Abdominal Pain, Diarrhea, Bloating caused by
+diseases such as 'Irritable Bowel Syndrome, Crohn's Disease',
+analgesics: 'Antispasmodics, Antidepressants',
+treatment scans: 'Colonoscopy, CT Scan',
+diet: 'High-fiber foods, Probiotic-rich foods, Avoid trigger foods'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Joint Pain, Stiffness, Swelling caused by
+diseases such as 'Rheumatoid Arthritis, Osteoarthritis',
+analgesics: 'NSAIDs, Disease-modifying antirheumatic drugs (DMARDs)',
+treatment scans: 'X-ray, MRI Scan',
+diet: 'Anti-inflammatory foods, Omega-3 rich foods, Vitamin D supplements'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Chest Pain, Shortness of Breath, Sweating caused by
+diseases such as 'Heart Attack, Angina',
+analgesics: 'Aspirin, Nitroglycerin',
+treatment scans: 'Electrocardiogram (ECG), Stress Test',
+diet: 'Low-sodium diet, Fiber-rich foods, Omega-3 rich foods'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Frequent Urination, Increased Thirst, Blurred Vision caused by
+diseases such as 'Diabetes Mellitus, Urinary Tract Infection',
+analgesics: 'Metformin, Antibiotics',
+treatment scans: 'Blood Glucose Test, Urine Analysis',
+diet: 'Complex carbohydrates, Fiber-rich foods, Hydration'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Unexplained Weight Loss, Night Sweats, Fatigue caused by
+diseases such as 'Cancer, Tuberculosis',
+treatments: 'Pain relievers, Antibiotics',
+treatment_scans: 'CT Scan, Biopsy',
+diet: 'High-protein foods, Antioxidant-rich foods, Hydration'
+-------> Enter your pincode to see available doctors nearby you.
+
+Persistent Sadness, Loss of Interest, Sleep Disturbances caused by
+diseases such as 'Depression, Bipolar Disorder',
+analgesics: 'Antidepressants, Mood Stabilizers',
+treatment scans: 'Psychological Evaluation, Brain Imaging',
+diet: 'Omega-3 rich foods, Vitamin D supplements, Folate-rich foods'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Short Stature caused by
+diseases such as 'Growth Hormone Deficiency, Achondroplasia',
+analgesics: 'Growth Hormone Therapy, Limb-Lengthening Surgery',
+treatment scans: 'Bone Age X-ray, MRI Scan, Genetic Testing',
+diet: 'Protein-rich foods, Calcium-rich foods, Vitamin D supplements'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Delayed Puberty caused by
+diseases such as 'Constitutional Growth Delay, Hypogonadotropic Hypogonadism',
+analgesics: 'Puberty-Inducing Medications, Hormone Replacement Therapy',
+treatment scans: 'Bone Age X-ray, Hormone Level Tests',
+diet: 'Balanced diet, Vitamin D supplements'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Turner Syndrome caused by
+diseases such as 'Turner Syndrome',
+analgesics: 'Estrogen Replacement Therapy, Growth Hormone Therapy',
+treatment scans: 'Genetic Testing, Echocardiogram',
+diet: 'Calcium-rich foods, Vitamin D supplements'
+ -------> Enter your pincode to see available doctors nearby you.
+
+leg and hand Pain caused by
+diseases: 'Arthritis', 'Fibromyalgia'
+Analgesics: 'Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)', 'Acetaminophen'
+Treatment Scans: 'X-rays', 'MRI Scans'
+Physical Therapy: 'Stretching Exercises', 'Low-Impact Aerobic Exercise'
+Diet: 'Omega-3 Fatty Acids', 'Turmeric', 'Ginger'
+-------> Enter your pincode to see available doctors nearby you.
+
+Asthma caused by
+diseases such as 'Asthma',
+analgesics: 'Bronchodilators, Corticosteroids',
+treatment scans: 'Spirometry, Chest X-ray',
+diet: 'Anti-inflammatory foods, Omega-3 rich foods'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Chronic Bronchitis caused by
+diseases such as 'Chronic Bronchitis',
+analgesics: 'Bronchodilators, Antibiotics',
+treatment scans: 'Chest X-ray, CT Scan',
+diet: 'Hydration, Antioxidant-rich foods'
+ -------> Enter your pincode to see available doctors nearby you.
+
+COPD caused by
+diseases such as 'COPD',
+analgesics: 'Bronchodilators, Corticosteroids',
+treatment scans: 'Spirometry, Chest X-ray, CT Scan',
+diet: 'Anti-inflammatory foods, Omega-3 rich foods'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Cystic Fibrosis caused by
+diseases such as 'Cystic Fibrosis',
+analgesics: 'Bronchodilators, Mucolytics',
+treatment scans: 'Sweat Test, Chest X-ray, CT Scan',
+diet: 'High-calorie, high-protein diet, Vitamin supplements'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Migraine caused by
+diseases such as 'Migraine',
+analgesics: 'Triptans, NSAIDs',
+treatment scans: 'CT Scan, MRI Scan',
+diet: 'Hydration, Magnesium-rich foods, Avoid trigger foods'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Brain Tumor caused by
+diseases such as 'Brain Tumor',
+analgesics: 'Anti-seizure medications, Corticosteroids',
+treatment scans: 'CT Scan, MRI Scan, Biopsy',
+diet: 'High-protein diet, Antioxidant-rich foods'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Cluster Headaches caused by
+diseases such as 'Cluster Headaches',
+analgesics: 'Triptans, Oxygen Therapy',
+treatment scans: 'MRI Scan, Neurological Examination',
+diet: 'Hydration, Avoid alcohol and tobacco'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Multiple Sclerosis caused by
+diseases such as 'Multiple Sclerosis',
+analgesics: 'Corticosteroids, Disease-modifying therapies',
+treatment scans: 'MRI Scan, Evoked Potential Tests, Lumbar Puncture',
+diet: 'Omega-3 rich foods, Vitamin D supplements'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Hypothyroidism caused by
+diseases such as 'Hypothyroidism',
+treatments: 'Levothyroxine',
+treatment_scans: 'Thyroid Function Tests, Thyroid Ultrasound',
+diet: 'Iodine-rich foods, Selenium-rich foods'
+-------> Enter your pincode to see available doctors nearby you.
+
+
+Chronic Fatigue Syndrome caused by
+diseases such as 'Chronic Fatigue Syndrome',
+analgesics: 'Antidepressants, Pain relievers',
+treatment scans: 'Sleep Study, Blood Tests',
+diet: 'Vitamin B12 supplements, Omega-3 rich foods'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Fibromyalgia caused by
+diseases such as 'Fibromyalgia',
+analgesics: 'Pain relievers, Antidepressants',
+treatment scans: 'Tender Point Examination, Blood Tests',
+diet: 'Anti-inflammatory foods, Vitamin D supplements'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Alzheimer's Disease caused by
+diseases such as 'Alzheimer's Disease',
+analgesics: 'Cholinesterase Inhibitors, NMDA Receptor Antagonists',
+treatment scans: 'Cognitive Assessments, Brain Imaging',
+diet: 'Antioxidant-rich foods, Omega-3 rich foods'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Irritable Bowel Syndrome caused by
+diseases such as 'Irritable Bowel Syndrome',
+analgesics: 'Antispasmodics, Antidepressants',
+treatment scans: 'Colonoscopy, Stool Tests',
+diet: 'High-fiber foods, Probiotic-rich foods, Avoid trigger foods'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Crohn's Disease caused by
+diseases such as 'Crohn's Disease',
+analgesics: 'Anti-inflammatory drugs, Immunosuppressants',
+treatment scans: 'Colonoscopy, CT Scan, MRI Scan',
+diet: 'Low-fiber diet, Hydration, Nutrient-dense foods'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Ulcerative Colitis caused by
+diseases such as 'Ulcerative Colitis',
+analgesics: 'Anti-inflammatory drugs, Immunosuppressants',
+treatment scans: 'Colonoscopy, Sigmoidoscopy, Biopsy',
+diet: 'Low-fiber diet, Hydration, Nutrient-dense foods'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Colon Cancer caused by
+diseases such as 'Colon Cancer',
+analgesics: 'Pain relievers, Chemotherapy',
+treatment scans: 'Colonoscopy, CT Scan, Biopsy',
+diet: 'High-fiber foods, Antioxidant-rich foods'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Rheumatoid Arthritis caused by
+diseases such as 'Rheumatoid Arthritis',
+analgesics: 'NSAIDs, Disease-modifying antirheumatic drugs (DMARDs)',
+treatment scans: 'X-ray, MRI Scan, Blood Tests',
+diet: 'Anti-inflammatory foods, Omega-3 rich foods'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Osteoarthritis caused by
+diseases such as 'Osteoarthritis',
+analgesics: 'NSAIDs, Acetaminophen',
+treatment scans: 'X-ray, MRI Scan',
+diet: 'Anti-inflammatory foods, Vitamin D supplements'
+ -------> Enter your pincode to see
+
+ Short Stature caused by
+diseases such as 'Growth Hormone Deficiency, Achondroplasia'
+analgesics: 'Growth Hormone Therapy, Limb-Lengthening Surgery'
+treatment scans: 'Bone Age X-ray, MRI Scan, Genetic Testing'
+diet: 'Protein-rich foods, Calcium-rich foods, Vitamin D supplements'
+symptoms: 'Disproportionately short stature, delayed growth'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Delayed Puberty caused by
+diseases such as 'Constitutional Growth Delay, Hypogonadotropic Hypogonadism'
+analgesics: 'Puberty-Inducing Medications, Hormone Replacement Therapy'
+treatment scans: 'Bone Age X-ray, Hormone Level Tests'
+diet: 'Balanced diet, Vitamin D supplements'
+symptoms: 'Lack of secondary sexual characteristics, delayed growth spurt'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Turner Syndrome caused by
+diseases such as 'Turner Syndrome'
+analgesics: 'Estrogen Replacement Therapy, Growth Hormone Therapy'
+treatment scans: 'Genetic Testing, Echocardiogram'
+diet: 'Calcium-rich foods, Vitamin D supplements'
+symptoms: 'Short stature, webbed neck, infertility'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Asthma caused by
+diseases such as 'Asthma'
+analgesics: 'Bronchodilators, Corticosteroids'
+treatment scans: 'Spirometry, Chest X-ray'
+diet: 'Anti-inflammatory foods, Omega-3 rich foods'
+symptoms: 'Wheezing, shortness of breath, chest tightness, coughing'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Chronic Bronchitis caused by
+diseases such as 'Chronic Bronchitis'
+analgesics: 'Bronchodilators, Antibiotics'
+treatment scans: 'Chest X-ray, CT Scan'
+diet: 'Hydration, Antioxidant-rich foods'
+symptoms: 'Persistent cough, mucus production, chest discomfort'
+ -------> Enter your pincode to see available doctors nearby you.
+
+COPD caused by
+diseases such as 'COPD'
+analgesics: 'Bronchodilators, Corticosteroids'
+treatment scans: 'Spirometry, Chest X-ray, CT Scan'
+diet: 'Anti-inflammatory foods, Omega-3 rich foods'
+symptoms: 'Shortness of breath, wheezing, chronic cough, fatigue'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Cystic Fibrosis caused by
+diseases such as 'Cystic Fibrosis'
+analgesics: 'Bronchodilators, Mucolytics'
+treatment scans: 'Sweat Test, Chest X-ray, CT Scan'
+diet: 'High-calorie, high-protein diet, Vitamin supplements'
+symptoms: 'Persistent cough, wheezing, poor weight gain, salty skin'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Migraine caused by
+diseases such as 'Migraine'
+analgesics: 'Triptans, NSAIDs'
+treatment scans: 'CT Scan, MRI Scan'
+diet: 'Hydration, Magnesium-rich foods, Avoid trigger foods'
+symptoms: 'Severe headache, nausea, sensitivity to light/sound, aura'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Brain Tumor caused by
+diseases such as 'Brain Tumor'
+analgesics: 'Anti-seizure medications, Corticosteroids'
+treatment scans: 'CT Scan, MRI Scan, Biopsy'
+diet: 'High-protein diet, Antioxidant-rich foods'
+symptoms: 'Headaches, seizures, vision problems, cognitive changes'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Cluster Headaches caused by
+diseases such as 'Cluster Headaches'
+analgesics: 'Triptans, Oxygen Therapy'
+treatment scans: 'MRI Scan, Neurological Examination'
+diet: 'Hydration, Avoid alcohol and tobacco'
+symptoms: 'Severe one-sided headache, facial flushing, nasal congestion'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Multiple Sclerosis caused by
+diseases such as 'Multiple Sclerosis'
+analgesics: 'Corticosteroids, Disease-modifying therapies'
+treatment scans: 'MRI Scan, Evoked Potential Tests, Lumbar Puncture'
+diet: 'Omega-3 rich foods, Vitamin D supplements'
+symptoms: 'Numbness, tingling, vision problems, muscle weakness'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Hypothyroidism caused by
+diseases such as 'Hypothyroidism'
+analgesics: 'Levothyroxine'
+treatment scans: 'Thyroid Function Tests, Thyroid Ultrasound'
+diet: 'Iodine-rich foods, Selenium-rich foods'
+symptoms: 'Fatigue, weight gain, cold intolerance, dry skin'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Chronic Fatigue Syndrome caused by
+diseases such as 'Chronic Fatigue Syndrome'
+analgesics: 'Antidepressants, Pain relievers'
+treatment scans: 'Sleep Study, Blood Tests'
+diet: 'Vitamin B12 supplements, Omega-3 rich foods'
+symptoms: 'Extreme fatigue, memory problems, muscle pain, insomnia'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Fibromyalgia caused by
+diseases such as 'Fibromyalgia'
+analgesics: 'Pain relievers, Antidepressants'
+treatment scans: 'Tender Point Examination, Blood Tests'
+diet: 'Anti-inflammatory foods, Vitamin D supplements'
+symptoms: 'Widespread musculoskeletal pain, fatigue, sleep disturbances'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Alzheimer's Disease caused by
+diseases such as 'Alzheimer's Disease'
+analgesics: 'Cholinesterase Inhibitors, NMDA Receptor Antagonists'
+treatment scans: 'Cognitive Assessments, Brain Imaging'
+diet: 'Antioxidant-rich foods, Omega-3 rich foods'
+symptoms: 'Memory loss, confusion, difficulty with daily tasks'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Irritable Bowel Syndrome caused by
+diseases such as 'Irritable Bowel Syndrome'
+analgesics: 'Antispasmodics, Antidepressants'
+treatment scans: 'Colonoscopy, Stool Tests'
+diet: 'High-fiber foods, Probiotic-rich foods, Avoid trigger foods'
+symptoms: 'Abdominal pain, bloating, diarrhea, constipation'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Crohn's Disease caused by
+diseases such as 'Crohn's Disease'
+analgesics: 'Anti-inflammatory drugs, Immunosuppressants'
+treatment scans: 'Colonoscopy, CT Scan, MRI Scan'
+diet: 'Low-fiber diet, Hydration, Nutrient-dense foods'
+symptoms: 'Abdominal pain, diarrhea, weight loss, fatigue'
+ -------> Enter your pincode to see available doctors nearby you.
+Short Stature caused by
+diseases such as 'Growth Hormone Deficiency, Achondroplasia'
+analgesics: 'Growth Hormone Therapy, Limb-Lengthening Surgery'
+treatment scans: 'Bone Age X-ray, MRI Scan, Genetic Testing'
+diet: 'Protein-rich foods, Calcium-rich foods, Vitamin D supplements'
+symptoms: 'Disproportionately short stature, delayed growth'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Delayed Puberty caused by
+diseases such as 'Constitutional Growth Delay, Hypogonadotropic Hypogonadism'
+analgesics: 'Puberty-Inducing Medications, Hormone Replacement Therapy'
+treatment scans: 'Bone Age X-ray, Hormone Level Tests'
+diet: 'Balanced diet, Vitamin D supplements'
+symptoms: 'Lack of secondary sexual characteristics, delayed growth spurt'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Turner Syndrome caused by
+diseases such as 'Turner Syndrome'
+analgesics: 'Estrogen Replacement Therapy, Growth Hormone Therapy'
+treatment scans: 'Genetic Testing, Echocardiogram'
+diet: 'Calcium-rich foods, Vitamin D supplements'
+symptoms: 'Short stature, webbed neck, infertility'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Asthma caused by
+diseases such as 'Asthma'
+analgesics: 'Bronchodilators, Corticosteroids'
+treatment scans: 'Spirometry, Chest X-ray'
+diet: 'Anti-inflammatory foods, Omega-3 rich foods'
+symptoms: 'Wheezing, shortness of breath, chest tightness, coughing'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Chronic Bronchitis caused by
+diseases such as 'Chronic Bronchitis'
+analgesics: 'Bronchodilators, Antibiotics'
+treatment scans: 'Chest X-ray, CT Scan'
+diet: 'Hydration, Antioxidant-rich foods'
+symptoms: 'Persistent cough, mucus production, chest discomfort'
+ -------> Enter your pincode to see available doctors nearby you.
+
+COPD caused by
+diseases such as 'COPD'
+analgesics: 'Bronchodilators, Corticosteroids'
+treatment scans: 'Spirometry, Chest X-ray, CT Scan'
+diet: 'Anti-inflammatory foods, Omega-3 rich foods'
+symptoms: 'Shortness of breath, wheezing, chronic cough, fatigue'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Cystic Fibrosis caused by
+diseases such as 'Cystic Fibrosis'
+analgesics: 'Bronchodilators, Mucolytics'
+treatment scans: 'Sweat Test, Chest X-ray, CT Scan'
+diet: 'High-calorie, high-protein diet, Vitamin supplements'
+symptoms: 'Persistent cough, wheezing, poor weight gain, salty skin'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Common Cold caused by
+diseases such as 'Common Cold'
+analgesics: 'Decongestants, Cough suppressants'
+treatment scans: 'None'
+diet: 'Hydration, Vitamin C-rich foods'
+symptoms: 'Runny nose, sore throat, sneezing, mild fever'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Influenza (Flu) caused by
+diseases such as 'Influenza (Flu)'
+analgesics: 'Antipyretics, Antiviral medications'
+treatment scans: 'None'
+diet: 'Hydration, Nutrient-rich foods'
+symptoms: 'Fever, body aches, fatigue, cough, sore throat'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Allergic Rhinitis caused by
+diseases such as 'Allergic Rhinitis'
+analgesics: 'Antihistamines, Decongestants'
+treatment scans: 'None'
+diet: 'Avoid trigger foods'
+symptoms: 'Runny nose, itchy eyes, sneezing, nasal congestion'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Migraine caused by
+diseases such as 'Migraine'
+analgesics: 'Triptans, NSAIDs'
+treatment scans: 'CT Scan, MRI Scan'
+diet: 'Hydration, Magnesium-rich foods, Avoid trigger foods'
+symptoms: 'Severe headache, nausea, sensitivity to light/sound, aura'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Tension Headache caused by
+diseases such as 'Tension Headache'
+analgesics: 'NSAIDs, Acetaminophen'
+treatment scans: 'None'
+diet: 'Hydration, Stress management'
+symptoms: 'Dull, aching headache, neck and shoulder tension'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Heartburn caused by
+diseases such as 'Heartburn (Acid Reflux)'
+analgesics: 'Antacids, Proton Pump Inhibitors'
+treatment scans: 'Endoscopy (if severe)'
+diet: 'Avoid spicy, fried, or acidic foods'
+symptoms: 'Burning sensation in the chest, sour taste in the mouth'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Hypothyroidism caused by
+diseases such as 'Hypothyroidism'
+analgesics: 'Levothyroxine'
+treatment scans: 'Thyroid Function Tests, Thyroid Ultrasound'
+diet: 'Iodine-rich foods, Selenium-rich foods'
+symptoms: 'Fatigue, weight gain, cold intolerance, dry skin'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Chronic Fatigue Syndrome caused by
+diseases such as 'Chronic Fatigue Syndrome'
+analgesics: 'Antidepressants, Pain relievers'
+treatment scans: 'Sleep Study, Blood Tests'
+diet: 'Vitamin B12 supplements, Omega-3 rich foods'
+symptoms: 'Extreme fatigue, memory problems, muscle pain, insomnia'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Irritable Bowel Syndrome caused by
+diseases such as 'Irritable Bowel Syndrome'
+analgesics: 'Antispasmodics, Antidepressants'
+treatment scans: 'Colonoscopy, Stool Tests'
+diet: 'High-fiber foods, Probiotic-rich foods, Avoid trigger foods'
+symptoms: 'Abdominal pain, bloating, diarrhea, constipation'
+ -------> Enter your pincode to see available doctors nearby you.
+
+Irritable Bowel Syndrome caused by
+diseases such as 'Irritable Bowel Syndrome',
+treatments: 'Antispasmodics, Antidepressants',
+treatment_scans: 'Colonoscopy, Stool Tests',
+diet: 'High-fiber foods, Probiotic-rich foods, Avoid trigger foods',
+symptoms: 'Abdominal pain, bloating, diarrhea, constipation'
+-------> Enter your pincode to see available doctors nearby you.
+
+Sore Throat, Difficulty Swallowing caused by
+diseases such as 'Strep Throat, Tonsillitis, Common Cold'
+Treatments: 'Antibiotics (if bacterial), Pain relievers, Lozenges'
+Treatment Scans: 'Throat swab culture (if severe)'
+Diet: 'Warm liquids, Soft foods, Avoid irritants'
+Symptoms: 'Throat pain, redness, swollen lymph nodes, fever'
+-------> Enter your pincode to see available doctors nearby you.
+
+Hoarseness, Loss of Voice caused by
+diseases such as 'Laryngitis, Vocal Cord Polyps'
+Treatments: 'Voice rest, Corticosteroids (if severe)'
+Treatment Scans: 'Laryngoscopy'
+Diet: 'Warm liquids, Lozenges'
+Symptoms: 'Raspy voice, throat discomfort, difficulty speaking'
+-------> Enter your pincode to see available doctors nearby you.
+
+Persistent Cough, Throat Clearing caused by
+diseases such as 'Postnasal Drip, Gastroesophageal Reflux Disease (GERD)'
+Treatments: 'Decongestants, Antacids, Proton Pump Inhibitors'
+Treatment Scans: 'Endoscopy (if severe reflux)'
+Diet: 'Avoid irritants, Eat smaller meals'
+Symptoms: 'Throat irritation, excessive mucus, hoarseness'
+-------> Enter your pincode to see available doctors nearby you.
+
+Burning Urination, Pelvic Pain caused by
+diseases such as 'Urinary Tract Infection, Kidney Stones'
+Treatments: 'Antibiotics, Pain relievers'
+Treatment Scans: 'Urine Analysis, Ultrasound'
+Diet: 'Increase fluid intake, Cranberry juice'
+Symptoms: 'Frequent urination, foul-smelling urine, lower back pain'
+-------> Enter your pincode to see available doctors nearby you.
+
+Muscle Cramps, Numbness caused by
+diseases such as 'Electrolyte Imbalance, Peripheral Neuropathy'
+Treatments: 'Electrolyte supplements, Pain relievers'
+Treatment Scans: 'Blood tests, Nerve conduction studies'
+Diet: 'Potassium-rich foods, Vitamin B supplements'
+Symptoms: 'Muscle twitching, tingling sensations, weakness'
+-------> Enter your pincode to see available doctors nearby you.
+
+Yellow Skin, Dark Urine caused by
+diseases such as 'Hepatitis, Gallstones'
+Treatments: 'Antiviral medications, Ursodeoxycholic acid'
+Treatment Scans: 'Liver function tests, Ultrasound'
+Diet: 'Low-fat, high-fiber diet'
+Symptoms: 'Fatigue, abdominal pain, nausea'
+-------> Enter your pincode to see available doctors nearby you.
+
+Rash, Joint Pain caused by
+diseases such as 'Lupus, Psoriatic Arthritis'
+Treatments: 'Corticosteroids, Immunosuppressants'
+Treatment Scans: 'Blood tests, X-rays'
+Diet: 'Anti-inflammatory foods, Avoid trigger foods'
+Symptoms: 'Fever, skin lesions, joint swelling'
+-------> Enter your pincode to see available doctors nearby you.
+
+Fever, Headache, Muscle Pain, Fatigue caused by
+diseases such as 'Influenza, COVID-19, Dengue Fever, Zika Virus, Chikungunya, Measles, Chickenpox, Mononucleosis, Hepatitis A, B, and C, HIV/AIDS (initial stages)',
+treatments: 'Antiviral medications, Antipyretics, Fluid intake, Antihistamines, Immune boosters',
+treatment_scans: 'Rapid diagnostic tests, Blood tests, Chest X-ray, Liver function tests, Antibody tests',
+diet: 'Nutritious fluids, Vitamin C-rich foods, Electrolyte-rich foods, Immune-boosting foods'
+-------> Enter your location to find nearby healthcare facilities.
+
+Fever, Cough, Chest Pain, Shortness of Breath caused by
+diseases such as 'Pneumonia, Tuberculosis, Typhoid Fever, Scarlet Fever, Streptococcal Pharyngitis, Urinary Tract Infections, Lyme Disease, Brucellosis, Meningitis, Sepsis',
+treatments: 'Antibiotics, Antitubercular drugs, Antipyretics, Fluid intake, Respiratory support',
+treatment_scans: 'Chest X-ray, CT scan, Sputum tests, Blood tests, Urine tests, Lumbar puncture',
+diet: 'Nutritious fluids, Protein-rich foods, Probiotic foods, Anti-inflammatory foods'
+-------> Enter your pincode to see available doctors nearby you.
+
+Fever, Chills, Fatigue, Nausea caused by
+diseases such as 'Malaria, Toxoplasmosis, Giardiasis, Amoebiasis, Leishmaniasis, Trypanosomiasis (African Sleeping Sickness), Chagas Disease',
+treatments: 'Antimalarials, Antiparasitics, Antipyretics, Fluid intake, Antibiotics',
+treatment_scans: 'Blood tests, Stool tests, Imaging studies, Serological tests, Molecular tests',
+diet: 'Rehydration solutions, Bland diet, Probiotics, Iron-rich foods'
+-------> Enter your location to find nearby infectious disease specialists.
+
+Fever, Cough, Night Sweats caused by
+diseases such as 'Histoplasmosis, Coccidioidomycosis, Blastomycosis, Aspergillosis',
+treatments: 'Antifungal medications, Antipyretics, Respiratory support, Immunotherapy',
+treatment_scans: 'Chest X-ray, CT scan, Fungal cultures, Biopsy, Serological tests',
+diet: 'Nutrient-dense foods, Probiotic foods, Antioxidant-rich foods, Immune-boosting foods'
+-------> Enter your pincode to see available pulmonologists nearby you.
+
+Fever, Joint Pain, Skin Rash caused by
+diseases such as 'Rheumatic Fever, Kawasaki Disease, Periodic Fever Syndromes, Autoimmune Disorders (Lupus, Rheumatoid Arthritis), Thyroid Disorders (Thyroiditis)',
+treatments: 'Nonsteroidal anti-inflammatory drugs (NSAIDs), Corticosteroids, Immunosuppressants, Thyroid medications',
+treatment_scans: 'Blood tests, Imaging studies, Echocardiogram, Thyroid function tests',
+diet: 'Anti-inflammatory foods, Omega-3 rich foods, Calcium-rich foods, Iodine-rich foods'
+-------> Enter your location to find nearby rheumatologists.
+
+Fever, Unexplained Weight Loss caused by
+diseases such as 'Cancer, Fever of Unknown Origin (FUO)',
+treatments: 'Chemotherapy, Radiation therapy, Targeted therapies, Antipyretics, Antibiotics',
+treatment_scans: 'Biopsy, Imaging studies (CT, MRI, PET), Blood tests, Endoscopy',
+diet: 'Nutrient-dense foods, High-calorie foods, Protein-rich foods, Antioxidant-rich foods'
+-------> Enter your pincode to see available oncologists nearby you.

@@ -1,0 +1,264 @@
+530011-->
+Name:DR. M.Satyarao,
+contactnumber:0891-2709239,
+location:"malkapuram,beside postoffice",
+timings: 6:30pm-9:30pm,
+Specialist : ENT.
+
+530012-->
+Name: DR. A. Ravi Kumar,
+contactnumber: 0891-2715678,
+location: "seethamadhara, opposite R.K hospital",
+timings: 8:00am-12:00pm,
+Specialist: Cardiology.
+
+530013-->
+Name: DR. S. Laxmi,
+contactnumber: 0891-2723456,
+location: "dwarakanagar, near RTC complex",
+timings: 10:00am-1:00pm,
+Specialist: Dermatology.
+
+530014-->
+Name: DR. P. Venkatesh,
+contactnumber: 0891-2734567,
+location: "gajuwaka, beside central market",
+timings: 5:00pm-8:00pm,
+Specialist: Pediatrics.
+
+530015-->
+Name: DR. R. Sridevi,
+contactnumber: 0891-2745678,
+location: "madhurawada, near city center",
+timings: 7:00am-10:00am,
+Specialist: Gynecology.
+
+530016-->
+Name: DR. K. Ramesh,
+contactnumber: 0891-2756789,
+location: "kancharapalem, opposite railway station",
+timings: 4:00pm-7:00pm,
+Specialist: Orthopedics.
+
+530017-->
+Name: DR. M. Swetha,
+contactnumber: 0891-2767890,
+location: "siripuram, near park hotel",
+timings: 3:00pm-6:00pm,
+Specialist: Neurology.
+
+530018-->
+Name: DR. T. Rajesh,
+contactnumber: 0891-2778901,
+location: "kailasapuram, next to bus stop",
+timings: 9:00am-12:00pm,
+Specialist: Ophthalmology.
+
+530019-->
+Name: DR. A. Geeta,
+contactnumber: 0891-2789012,
+location: "beach road, near light house",
+timings: 5:00pm-8:00pm,
+Specialist: Oncology.
+
+530020-->
+Name: DR. S. Raghav,
+contactnumber: 0891-2790123,
+location: "lawsons bay colony, beside park",
+timings: 11:00am-2:00pm,
+Specialist: Gastroenterology.
+
+530021-->
+Name: DR. P. Niharika,
+contactnumber: 0891-2801234,
+location: "NAD junction, near petrol bunk",
+timings: 4:00pm-7:00pm,
+Specialist: Urology.
+
+530022-->
+Name: DR. R. Arjun,
+contactnumber: 0891-2812345,
+location: "murali nagar, beside community hall",
+timings: 6:00am-9:00am,
+Specialist: Endocrinology.
+
+530023-->
+Name: DR. K. Meghana,
+contactnumber: 0891-2823456,
+location: "resapuvanipalem, near GVMC office",
+timings: 2:00pm-5:00pm,
+Specialist: Psychiatry.
+
+530024-->
+Name: DR. A. Kiran,
+contactnumber: 0891-2834567,
+location: "RK beach, beside submarine museum",
+timings: 1:00pm-4:00pm,
+Specialist: Pulmonology.
+
+530025-->
+Name: DR. S. Vamsi,
+contactnumber: 0891-2845678,
+location: "yendada, opposite to school",
+timings: 9:00am-11:00am,
+Specialist: Nephrology.
+
+530026-->
+Name: DR. P. Divya,
+contactnumber: 0891-2856789,
+location: "steel plant, near main gate",
+timings: 3:00pm-6:00pm,
+Specialist: Rheumatology.
+
+530027-->
+Name: DR. M. Suresh,
+contactnumber: 0891-2867890,
+location: "MVP colony, near stadium",
+timings: 8:00am-11:00am,
+Specialist: Hematology.
+
+530028-->
+Name: DR. T. Sandeep,
+contactnumber: 0891-2878901,
+location: "akkyapalem, near railway crossing",
+timings: 10:00am-1:00pm,
+Specialist: Pathology.
+
+530029-->
+Name: DR. A. Soumya,
+contactnumber: 0891-2889012,
+location: "waltaair, beside petrol pump",
+timings: 12:00pm-3:00pm,
+Specialist: Immunology.
+
+530030-->
+Name: DR. S. Ajay,
+contactnumber: 0891-2890123,
+location: "scindia, near dockyard",
+timings: 7:00am-9:00am,
+Specialist: Radiology.
+
+530031-->
+Name: DR. P. Kavya,
+contactnumber: 0891-2901234,
+location: "sitampeta, opposite market",
+timings: 11:00am-2:00pm,
+Specialist: Anesthesiology.
+
+530032-->
+Name: DR. R. Mahesh,
+contactnumber: 0891-2912345,
+location: "adivivaram, near community center",
+timings: 5:00pm-8:00pm,
+Specialist: Geriatrics.
+
+530033-->
+Name: DR. K. Neha,
+contactnumber: 0891-2923456,
+location: "gopalapatnam, beside church",
+timings: 1:00pm-4:00pm,
+Specialist: General Medicine.
+
+530034-->
+Name: DR. A. Vishnu,
+contactnumber: 0891-2934567,
+location: "kurmannapalem, near highway",
+timings: 4:00pm-7:00pm,
+Specialist: Cardiology.
+
+530035-->
+Name: DR. S. Priya,
+contactnumber: 0891-2945678,
+location: "old Gajuwaka, next to police station",
+timings: 3:00pm-6:00pm,
+Specialist: Dermatology.
+
+530036-->
+Name: DR. P. Aditya,
+contactnumber: 0891-2956789,
+location: "isukathota, near water tank",
+timings: 8:00am-10:00am,
+Specialist: Pediatrics.
+
+530037-->
+Name: DR. R. Shruthi,
+contactnumber: 0891-2967890,
+location: "bakkannapalem, opposite to temple",
+timings: 10:00am-1:00pm,
+Specialist: Gynecology.
+
+530038-->
+Name: DR. K. Bharat,
+contactnumber: 0891-2978901,
+location: "pithapuram colony, near school",
+timings: 5:00pm-8:00pm,
+Specialist: Orthopedics.
+
+530039-->
+Name: DR. M. Harsha,
+contactnumber: 0891-2989012,
+location: "HB colony, beside park",
+timings: 9:00am-12:00pm,
+Specialist: Neurology.
+
+530040-->
+Name: DR. T. Hema,
+contactnumber: 0891-2990123,
+location: "maddilapalem, near bus stop",
+timings: 3:00pm-6:00pm,
+Specialist: Ophthalmology.
+
+530041-->
+Name: DR. A. Raghavi,
+contactnumber: 0891-3001234,
+location: "pandurangapuram, near beach road",
+timings: 11:00am-2:00pm,
+Specialist: Oncology.
+
+530042-->
+Name: DR. S. Vijay,
+contactnumber: 0891-3012345,
+location: "railway new colony, near park",
+timings: 6:00am-9:00am,
+Specialist: Gastroenterology.
+
+530043-->
+Name: DR. P. Madhavi,
+contactnumber: 0891-3023456,
+location: "ananthavaram, near bus depot",
+timings: 2:00pm-5:00pm,
+Specialist: Urology.
+
+530044-->
+Name: DR. R. Kalyan,
+contactnumber: 0891-3034567,
+location: "kakinada, near cinema theater",
+timings: 7:00am-10:00am,
+Specialist: Endocrinology.
+
+530045-->
+Name: DR. K. Jyothi,
+contactnumber: 0891-3045678,
+location: "thagarapuvalasa, beside market",
+timings: 4:00pm-7:00pm,
+Specialist: Psychiatry.
+
+530046-->
+Name: DR. A. Naresh,
+contactnumber: 0891-3056789,
+location: "tagarapuvalasa, near hospital",
+timings: 12:00pm-3:00pm,
+Specialist: Pulmonology.
+
+530047-->
+Name: DR. S. Swaroop,
+contactnumber: 0891-3067890,
+location: "anakapalle, near bus stand",
+timings: 1:00pm-4:00pm,
+Specialist: Nephrology.
+
+530048-->
+Name: DR. P. Ramya,
+contactnumber: 0891-3078901,
+location: "achutapuram, near market",
+timings:
