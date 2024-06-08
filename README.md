@@ -69,5 +69,3 @@ Fork the repository and submit a pull request with your changes.
 This project is licensed under the MIT License.
 
 ---
-
-This version is ready for you to copy and paste directly into a README file.
